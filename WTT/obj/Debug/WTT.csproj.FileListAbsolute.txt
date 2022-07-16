@@ -1,0 +1,13 @@
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\bin\Debug\WTT.exe.config
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\bin\Debug\WTT.exe
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\bin\Debug\WTT.pdb
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.csproj.AssemblyReference.cache
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\ITT.About.resources
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\ITT.MainForm.resources
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\ITT.Tweaks.resources
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.Properties.Resources.resources
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\ITT.Revert.resources
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.csproj.GenerateResource.cache
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.csproj.CoreCompileInputs.cache
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.exe
+C:\Users\immortal\Desktop\Windows-tweak-tool\WTT\obj\Debug\WTT.pdb
